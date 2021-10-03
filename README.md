@@ -1,6 +1,9 @@
 # Start with Note App
 
-## Run Scripts in following order
+The deployed version of App can be found on (https://ashokmanes.github.io/notes)[https://ashokmanes.github.io/notes]
+
+
+## Run Scripts in following order to run on local
 
 ### `yarn install`
 
