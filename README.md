@@ -1,6 +1,6 @@
 # Start with Note App
 
-The deployed version of App can be found on (https://ashokmanes.github.io/notes)[https://ashokmanes.github.io/notes]
+The deployed version of App can be found on [https://ashokmanes.github.io/notes](https://ashokmanes.github.io/notes)
 
 
 ## Run Scripts in following order to run on local
