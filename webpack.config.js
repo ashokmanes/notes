@@ -10,7 +10,7 @@ module.exports = {
   },
 
   output: {
-    path: path.resolve(__dirname, "dist"),
+    path: path.resolve(__dirname, "docs"),
     filename: "[name].bundle.js",
   },
 
@@ -31,7 +31,7 @@ module.exports = {
   
   devServer: {
     static: {
-        directory: path.join(__dirname, 'dist'),
+        directory: path.join(__dirname, 'docs'),
     },
     watchFiles: ['src/**/*'],
     open: true,
